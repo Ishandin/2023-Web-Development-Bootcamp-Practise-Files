@@ -1,0 +1,25 @@
+* body {
+  border: 10px solid purple;
+}
+
+.box {
+  background-color: blue;
+  padding: 10px;
+}
+
+p {
+  color: white;
+  margin: 0;
+  padding: 0;
+  font-size: 1.5rem;
+}
+
+.white-text {
+  background-color: red;
+  padding: 10px;
+}
+
+.Yellow {
+  color: yellow;
+  font-size: 2rem;
+}
